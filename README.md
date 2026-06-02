@@ -4,32 +4,32 @@
 
 这正是导致你的 X (Twitter) 账号频繁被风控、主流 AI 平台（ChatGPT/Claude）无法访问、或者网速慢到崩溃的核心原因。真正的高端玩家和跨境开发者，都在用更深度的防关联检测工具。
 
-以下精选 5 款更具深度、功能更全的 IP 纯净度检测神器，助你彻底告别网络裸奔与风控误伤。（点击下方链接均会在浏览器新标签页中打开）
+> 💡 **最佳浏览体验**：由于 GitHub 官方限制了网页自动弹出新窗口，**请按住 `Ctrl` 键（Mac 用户按 `Cmd` 键）点击链接**，或**直接用鼠标滚轮点击**，即可在浏览器新标签页中打开工具网站！
 
 ---
 
 ## 🛠️ 精选工具清单
 
-### 1. <a href="http://ippure.com" target="_blank">IP Pure</a> — 深度风险扫描
+### 1. [IP Pure](http://ippure.com) — 深度风险扫描
 * **核心功能**：专注于检测 IP 的**纯净度得分**。
 * **应用场景**：直观评估当前节点是否被主流风控系统标记为黑名单、刷量或高风险 IP。
 
-### 2. <a href="https://ipjiance.net" target="_blank">IP 检查网</a> — 基础信息核验
+### 2. [IP 检查网](https://ipjiance.net) — 基础信息核验
 * **核心功能**：检测 IP 的**基本地理位置与 ISP 信息**。
 * **应用场景**：快速核对当前节点的物理定位、所属运营商（ISP），确保代理全局生效。
 
-### 3. <a href="https://ip.net.coffee/claude/" target="_blank">IP.NET.COFFEE</a> — Claude/AI 专属出口检测
+### 3. [IP.NET.COFFEE](https://ip.net.coffee/claude/) — Claude/AI 专属出口检测
 * **核心功能**：精准检测当前 **Claude AI 出口 IP** 的状态与纯净度。
 * **深度指标**：
   * **IP 属性辨析**：精准识别 **住宅（Residential）** / **机房（Hosting/DC）** / **原生 IP**。
   * **高阶防护**：支持欺诈风险指数、DNS 泄漏、UDP 支持、浏览器指纹（Fingerprint）和历史安全性评估。
 
-### 4. <a href="https://ipinfo.cv" target="_blank">IPInfo.cv</a> — 全能网络工具箱（Clash 绝配）
+### 4. [IPInfo.cv](https://ipinfo.cv) — 全能网络工具箱（Clash 绝配）
 * **核心功能**：全能型 IP 诊断工具，特别适合排查 **Clash / v2ray 分流** 情况。
   * 📊 **网络性能**：全球 Ping、TCP 测试、支持**地图可视化**的 MTR 路由追踪。
   * 🔍 **分流诊断**：提供精准的分流测试与深度 DNS 查询。
 
-### 5. <a href="https://browserleaks.com/ip" target="_blank">BrowserLeaks</a> — 权威防关联与隐私泄漏检测
+### 5. [BrowserLeaks](https://browserleaks.com/ip) — 权威防关联与隐私泄漏检测
 * **核心功能**：全方位隐私漏洞排查，拒绝真实身份“裸奔”。
 * **应用场景**：深度检测是否通过 **WebRTC、DNS 泄漏、IPv6 泄漏** 等渠道，向目标网站暴露了你真实的国内 IP 或本地设备信息。
 
