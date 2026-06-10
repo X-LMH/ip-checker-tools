@@ -18,8 +18,6 @@
   * **流媒体与 AI 解锁**：一键检测对 **ChatGPT、Netflix、TikTok、Disney+** 等平台的原生/DNS 解锁状态及落地地区。
 * **快速使用**：
   `bash <(curl -sL https://Check.Place) -I`
-  *(💡 **WSL/Zsh 进阶技巧**：可在 `~/.zshrc` 中配置 `alias ipcheck='...'`，实现单单词秒测。)*
-
 ---
 
 ## 🛠️ 网页端精选工具清单
